@@ -28,5 +28,3 @@
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </p> 
 
-
-Update Under Process...........

@@ -10,32 +10,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2> Don't Forget To Star This Repository !!</h2>
 <h2>Get Connected with me !!!</h2>
 <p align="center">

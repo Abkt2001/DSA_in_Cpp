@@ -8,7 +8,7 @@
 
 <h2>Don't Know How To Contribute ? Read the <a href="Contribution_Guidelines.md">Contribution_Guidelines.md</a></h2>
 
-
+<h2><a href="https://github.com/rohank2502/DSA_in_Cpp/blob/08d2ab143b049a53bb4d6bb8e85ca8ff717ad13c/Code-of-Conduct.md">CODE OF CONDUCT</a></h2>
 
 <h2> Don't Forget To Star This Repository !!</h2>
 <h2>Get Connected with me !!!</h2>
